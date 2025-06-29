@@ -27,8 +27,18 @@
 - 📚 **Interests:** Quantum Computing, AI/ML, Full-Stack Development, Open Source
 
 ## ⚙️ Tech Stack
-
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)### What I use them for:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+</div>
 
 - **JavaScript/TypeScript:** For building interactive and scalable web applications.
 - **React/Next.js:** For creating dynamic and responsive user interfaces.
@@ -40,7 +50,7 @@
 
 ## 🎨 Anime Coding Mood
 
-![Anime coding gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Anime coding gif](https://tenor.com/bCNex.gif)
 
 \*Crisp, muscle‑light style coding moment — late-night anime coder vibe\*
 
