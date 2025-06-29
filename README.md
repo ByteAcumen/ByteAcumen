@@ -64,11 +64,6 @@
 
 ![GitHub Contributions Snake](https://github.com/ByteAcumen/ByteAcumen/blob/output/github-snake-dark.svg)
 
-## 🎬 Featured Project
-
-![AI Farmer Assistant Demo](https://media.giphy.com/media/IhONRo0lEsgO3y9PqO/giphy.gif)
-
-> 👨‍🌾 AI Farmer Assistant: Predicting crop yields using weather & soil data
 
 ### Project Details:
 
