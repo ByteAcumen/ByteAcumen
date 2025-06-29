@@ -1,57 +1,74 @@
-👨‍💻 Welcome to my GitHub! 👨‍💻
+# 👨‍💻 Welcome to my GitHub! 👨‍💻
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Hemanth+Kumar;Final-Year+CS+Student+%7C+Full-Stack+%2B+AI%2FML+Developer;Passionate+about+building+tech+that+matters!)
 
-Final‑year CSE student | Full‑Stack & AI/ML Enthusiast | Bengaluru, India 🇮🇳
-Table of Contents
+![Anime coding gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-About Me
-Tech Stack
-Anime Coding Mood
-GitHub Stats
-Contributions Snake
-Featured Project
-Connect with Me
-Visitor Counter
+*Final‑year CSE student | Full‑Stack & AI/ML Enthusiast | Bengaluru, India 🇮🇳*
 
-🧠 About Me
+## Table of Contents
 
-🎓 Student Since: 2020 (and debugging ever since!)
-🔭 Currently Working On: AI + Quantum-powered projects for sustainability
-🌱 Learning: Next.js, Tailwind CSS, Qiskit, TypeScript, Docker
-🎯 Goals: Build impactful ML tools, contribute to 5+ open-source repos, host tech workshops
-😄 Fun Fact: Made an AI-based crop predictor—I mom joked "ISRO, is that you?" 🌾🚀
-📚 Interests: Quantum Computing, AI/ML, Full-Stack Development, Open Source
+- About Me
+- Tech Stack
+- Anime Coding Mood
+- GitHub Stats
+- Contributions Snake
+- Featured Project
+- Connect with Me
+- Visitor Counter
 
-⚙️ Tech Stack
-### What I use them for:
+## 🧠 About Me
 
-JavaScript/TypeScript: For building interactive and scalable web applications.
-React/Next.js: For creating dynamic and responsive user interfaces.
-Node.js/Express: For developing robust back-end services.
-MongoDB: For storing and managing data in my applications.
-Python: For AI/ML projects and scripting.
-Docker: For containerizing applications and ensuring consistency across environments.
-Git: For version control and collaborating on projects.
+- 🎓 **Student Since:** 2020 (and debugging ever since!)
+- 🔭 **Currently Working On:** AI + Quantum-powered projects for sustainability
+- 🌱 **Learning:** Next.js, Tailwind CSS, Qiskit, TypeScript, Docker
+- 🎯 **Goals:** Build impactful ML tools, contribute to 5+ open-source repos, host tech workshops
+- 😄 **Fun Fact:** Made an AI-based crop predictor—I mom joked "ISRO, is that you?" 🌾🚀
+- 📚 **Interests:** Quantum Computing, AI/ML, Full-Stack Development, Open Source
 
-🎨 Anime Coding Mood
+## ⚙️ Tech Stack
 
-*Crisp, muscle‑light style coding moment — late-night anime coder vibe*
-📈 GitHub Stats
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)### What I use them for:
 
+- **JavaScript/TypeScript:** For building interactive and scalable web applications.
+- **React/Next.js:** For creating dynamic and responsive user interfaces.
+- **Node.js/Express:** For developing robust back-end services.
+- **MongoDB:** For storing and managing data in my applications.
+- **Python:** For AI/ML projects and scripting.
+- **Docker:** For containerizing applications and ensuring consistency across environments.
+- **Git:** For version control and collaborating on projects.
 
-🐍 Contributions Snake
+## 🎨 Anime Coding Mood
 
-🎬 Featured Project
+![Anime coding gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
+\*Crisp, muscle‑light style coding moment — late-night anime coder vibe\*
 
-👨‍🌾 AI Farmer Assistant: Predicting crop yields using weather & soil data
+## 📈 GitHub Stats
 
-Project Details:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteAcumen&show_icons=true&theme=radical)
 
-Technologies Used: Python, Machine Learning (Scikit-learn), Data Visualization (Matplotlib)
-Problem Solved: Helps farmers predict crop yields based on historical weather and soil data, enabling better planning and resource allocation.
-Notable Achievements: Presented at the college tech fest and received the "Best AI Project" award.
-Repository: AI Farmer Assistant
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteAcumen&layout=compact&theme=radical)
 
-📬 Connect with Me
-👀 Visitor Counter
+## 🐍 Contributions Snake
+
+![GitHub Contributions Snake](https://github.com/ByteAcumen/ByteAcumen/blob/output/github-snake-dark.svg)
+
+## 🎬 Featured Project
+
+![AI Farmer Assistant Demo](https://media.giphy.com/media/IhONRo0lEsgO3y9PqO/giphy.gif)
+
+> 👨‍🌾 AI Farmer Assistant: Predicting crop yields using weather & soil data
+
+### Project Details:
+
+- **Technologies Used:** Python, Machine Learning (Scikit-learn), Data Visualization (Matplotlib)
+- **Problem Solved:** Helps farmers predict crop yields based on historical weather and soil data, enabling better planning and resource allocation.
+- **Notable Achievements:** Presented at the college tech fest and received the "Best AI Project" award.
+- **Repository:** AI Farmer Assistant
+
+## 📬 Connect with Me
+
+## 👀 Visitor Counter
+
+![Visitor Count](https://profile-counter.glitch.me/ByteAcumen/count.svg)
