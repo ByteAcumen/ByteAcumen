@@ -86,7 +86,7 @@ I built an **AI-powered crop yield predictor** for farmers—combining local wea
 
 ## 📫 Connect With Me
 - **LinkedIn**: [linkedin.com/in/hemanthkumar04](https://www.linkedin.com/in/hemanthkumar04/)  
-- **Email**: hemanthkumar04hh@gmail.com  
+- **Email**: hemanth.kumar04hh@gmail.com  
 - **Portfolio**: [Coming Soon 🚧]
 
 ---
