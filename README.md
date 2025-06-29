@@ -50,7 +50,7 @@
 
 ## 🎨 Anime Coding Mood
 
-![Anime coding gif](https://tenor.com/bCNex.gif)
+![Anime coding gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJmdjQ3MjlvOTM5eXpvcHpzNzN0MjdsbThlaGk5dHJmMWlkMTR2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif)
 
 \*Crisp, muscle‑light style coding moment — late-night anime coder vibe\*
 
