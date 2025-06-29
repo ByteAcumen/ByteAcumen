@@ -1,84 +1,101 @@
-<!-- Banner GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Wave hi">
-</div>
+<!-- 🚀 Typing Banner Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Hemanth+Kumar;Final-Year+CS+Student+%7C+Full-Stack+%2B+AI%2FML+Developer;Passionate+about+building+tech+that+matters!" alt="Typing SVG">
+</p>
 
-<h1 align="center">Hey there! 👋 I'm Hemanth Kumar</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="wave hi gif">
+</p>
+
+<h1 align="center">Welcome to my GitHub! 👨‍💻</h1>
 <p align="center"><em>Final‑year CSE student | Full‑Stack & AI/ML Enthusiast | Bengaluru, India 🇮🇳</em></p>
 
 ---
 
 ## 🧠 About Me
-- **🎓 Student Since:** 2020 (and debugging ever since!)
-- **⚡ Learning:** Deep Learning (PyTorch/TensorFlow), Quantum Computing (Qiskit), Kubernetes & CI/CD
-- **🎯 Goals:** Build AI-powered apps, contribute to 5+ open-source projects, host ML workshops
-- **🎲 Fun Fact:** Created an AI Crop‑Yield Predictor 🌾 to empower farmers
+- 🎓 **Student Since:** 2020 (and debugging ever since!)
+- 🔭 **Currently Working On:** AI + Quantum-powered projects for sustainability
+- 🌱 **Learning:** Next.js, Tailwind CSS, Qiskit, TypeScript, Docker
+- 🎯 **Goals:** Build impactful ML tools, contribute to 5+ open-source repos, host tech workshops
+- 😄 **Fun Fact:** Made an AI-based crop predictor—I mom joked "ISRO, is that you?" 🌾🚀
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </div>
+
+---
+
+## 🎨 Anime Coding Mood  
+Here's a vibe check inspired by **Serial Experiments Lain**—late-night coding energy:
+
+<p align="center">
+  <img src="https://media.tenor.com/images/6efd4956ebb02569f77e6715a7e3ef51/tenor.gif" width="300" alt="Anime coding GIF">
+</p>
 
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByteAcumen&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ByteAcumen&show_icons=true&theme=radical" width="420" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteAcumen&layout=compact&theme=radical" width="340" alt="Top Languages"/>
 </p>
+
+---
 
 ## 🐍 Contributions Snake
+
 <p align="center">
-  ![snake gif](https://github.com/ByteAcumen/ByteAcumen/blob/output/github-contribution-grid-snake.svg)
-</p>
-*(Powered by [Platane/snk] animation – a fun twist on your contribution heatmap)* :contentReference[oaicite:2]{index=2}
-
----
-
-## 🎬 Project Demo
-<div align="center">
-  <img src="demo/app-demo.gif" alt="AI Farmer Assistant Demo" width="300"/>
-</div>
-> Here's a quick view of my AI‑powered Farmer Assistant in action 🚜
-
----
-
-## 💌 Connect with Me
-- [![LinkedIn Badge](https://img.shields.io/badge/-hemanth%20kumar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanthkumar04/)
-- [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hemanthkumar04hh@gmail.com)
-- Portfolio: **Coming Soon…** 🚧
-
----
-
-## 📊 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ByteAcumen/count.svg" alt="Visitor Count" />
+  <img src="https://github.com/ByteAcumen/ByteAcumen/blob/output/github-snake-dark.svg" alt="GitHub Contributions Snake" width="420"/>
 </p>
 
 ---
 
-### ⚙️ Optional Add-ons to Consider:
-- **Banner SVG**: Create an animated header using tools like `svg-banners` :contentReference[oaicite:3]{index=3}  
-- **Terminal GIF**: Add a retro terminal animation via `github-readme-terminal` :contentReference[oaicite:4]{index=4}  
-- **3D Contribution Graph**: Use `github-profile-3d-contrib` for a stunning 3D heatmap :contentReference[oaicite:5]{index=5}
+## 🎬 Featured Project
+
+<p align="center">
+  <img src="https://media.giphy.com/media/IhONRo0lEsgO3y9PqO/giphy.gif" width="400" alt="AI Farmer Assistant Demo">
+</p>
+
+> 👨‍🌾 AI Farmer Assistant: Predicting crop yields using weather & soil data
 
 ---
 
-### 🎯 Final Tips:
-- Host your demo GIF under `demo/` in your repo, link relatively  
-- Enable the **snk** GitHub Action in `.github/workflows/`  
-- Choose a matching theme (light/dark) for all badges and GIFs  
-- Regularly update “Currently Learning” and “Goals” to keep readers engaged  
+## 📬 Connect with Me
 
-Let me know if you'd like support setting up Actions, designing a banner SVG, or animating a terminal intro—happy to help you make it shine! ✨
-::contentReference[oaicite:6]{index=6}
+<p align="center">
+  <a href="https://www.linkedin.com/in/hemanthkumar04/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:hemanthkumar04hh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+  <a href="https://hemanthkumar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111?style=flat&logo=vercel&logoColor=white" alt="Portfolio Badge"/></a>
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ByteAcumen/count.svg" alt="Visitor Count"/>
+</p>
+
+---
+
+### ✨ Want to elevate your profile?
+If you need help with:
+- 🎨 Custom terminal intro animation  
+- 🏆 GitHub trophies or streaks  
+- 📊 3D contribution heatmap  
+- 🎬 Custom demo banners or GIFs  
+
+Just ask—I’d love to assist! 😊
