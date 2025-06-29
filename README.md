@@ -1,4 +1,4 @@
-<!-- 🚀 Typing Banner Animation -->
+<!-- 🚀 Dynamic Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Hemanth+Kumar;Final-Year+CS+Student+%7C+Full-Stack+%2B+AI%2FML+Developer;Passionate+about+building+tech+that+matters!" alt="Typing SVG">
 </p>
@@ -37,19 +37,19 @@
 
 ---
 
-## 🎨 Anime Coding Mood  
-Here's a vibe check inspired by **Serial Experiments Lain**—late-night coding energy:
+## 🎨 Anime Coding Mood
 
 <p align="center">
-  <img src="https://media.tenor.com/images/6efd4956ebb02569f77e6715a7e3ef51/tenor.gif" width="300" alt="Anime coding GIF">
+  <img src="https://media.tenor.com/images/6efd4956ebb02569f77e6715a7e3ef51/tenor.gif" width="300" alt="Anime coding gif">
 </p>
+*Crisp, muscle‑light style coding moment — late-night anime coder Vibe* :contentReference[oaicite:1]{index=1}
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByteAcumen&show_icons=true&theme=radical" width="420" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ByteAcumen&show_icons=true&theme=radical" width="420" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteAcumen&layout=compact&theme=radical" width="340" alt="Top Languages"/>
 </p>
 
@@ -91,11 +91,3 @@ Here's a vibe check inspired by **Serial Experiments Lain**—late-night coding 
 
 ---
 
-### ✨ Want to elevate your profile?
-If you need help with:
-- 🎨 Custom terminal intro animation  
-- 🏆 GitHub trophies or streaks  
-- 📊 3D contribution heatmap  
-- 🎬 Custom demo banners or GIFs  
-
-Just ask—I’d love to assist! 😊
