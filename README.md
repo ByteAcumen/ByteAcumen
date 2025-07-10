@@ -12,7 +12,7 @@
 
 - 🎓 Final-year Computer Science student at **Presidency University, Bengaluru**.
 - 🔭 I’m currently working on exciting projects at the intersection of **AI, Quantum Computing, and Full-Stack Development**.
-- 🌱 I’m currently learning **Next.js, Tailwind CSS, and expanding my knowledge in Quantum Machine Learning**.
+- 🌱 I’m currently learning **Next.js, Tailwind CSS, and expanding my knowledge in Machine Learning**.
 - 🎯 **2025 Goals:** Contribute to 5+ impactful open-source projects and host a workshop on AI/ML.
 - 😄 **Fun Fact:** I built an AI-powered crop predictor, and my mom jokingly asked if I was working for ISRO! 🌾🚀
 
