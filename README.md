@@ -1,4 +1,4 @@
-<!-- Animated Header -->
+<!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+H+H+Hemanth+Kumar;AI+%2B+Full-Stack+Developer;Final-Year+CS+Student;Passionate+about+Tech+that+Matters!">
 </p>
@@ -6,6 +6,11 @@
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://i.ibb.co/t4c2Lv0/banner-github.png" alt="Profile Banner" width="100%">
+</p>
+
+<!-- Animated Video/GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 </p>
 
 ---
@@ -17,6 +22,15 @@
 - 🌱 Learning **Next.js, Tailwind CSS, and Advanced ML techniques**  
 - 🎯 **2025 Goals:** Contribute to 5+ open-source projects and host an AI/ML workshop  
 - ⚡ Fun Fact: My AI crop predictor made my mom ask if I was working for ISRO! 🚀🌾  
+
+---
+
+## 🌐 My Portfolio
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-FF5733?style=for-the-badge&logo=internet-explorer&logoColor=white">
+  </a>
+</p>
 
 ---
 
@@ -67,19 +81,4 @@
 <p align="center">
   <a href="https://linkedin.com/in/h-h-hemanth-kumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:hemanth.kumar04hh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/ByteAcumen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
-
----
-
-## 🐍 GitHub Contributions Snake
-<p align="center">
-  <img src="https://github.com/ByteAcumen/ByteAcumen/blob/output/github-snake-dark.svg" alt="GitHub Snake"/>
-</p>
-
----
-
-<p align="center">
-  💡 *"Code is like humor. When you have to explain it, it’s bad."* 💡
-</p>
+  <a href="https://github.com/ByteAcumen"><img src="https://img.
