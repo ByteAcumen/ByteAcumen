@@ -1,12 +1,11 @@
-<!-- Animated Header -->
+<!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+H+H+Hemanth+Kumar;AI+%2B+Full-Stack+Developer;Final-Year+CS+Student;Building+Tech+that+Matters!">
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7¢er=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Hemanth+Kumar;Final-Year+CS+Student+%7C+Full-Stack+%2B+AI%2FML+Developer;Passionate+about+building+tech+that+matters!)
-<!-- Profile Banner -->
+<!-- Animated GIF Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/t4c2Lv0/banner-github.png" alt="Profile Banner" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Banner" width="100%">
 </p>
 
 ---
@@ -103,4 +102,11 @@
 
 <p align="center">
   💡 *"Code is like humor. When you have to explain it, it’s bad."* 💡
+</p>
+
+---
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ByteAcumen/count.svg" alt="Visitor Count" />
 </p>
