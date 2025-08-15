@@ -1,79 +1,85 @@
-# 👨‍💻 Welcome to my GitHub! 👨‍💻
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7¢er=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Hemanth+Kumar;Final-Year+CS+Student+%7C+Full-Stack+%2B+AI%2FML+Developer;Passionate+about+building+tech+that+matters!)
-
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+H+H+Hemanth+Kumar;AI+%2B+Full-Stack+Developer;Final-Year+CS+Student;Passionate+about+Tech+that+Matters!">
+</p>
+
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/t4c2Lv0/banner-github.png" alt="Profile Banner" width="100%">
 </p>
 
 ---
 
-### 🧠 About Me
-
-- 🎓 Final-year Computer Science student at **Presidency University, Bengaluru**.
-- 🔭 I’m currently working on exciting projects at the intersection of **AI, Quantum Computing, and Full-Stack Development**.
-- 🌱 I’m currently learning **Next.js, Tailwind CSS, and expanding my knowledge in Machine Learning**.
-- 🎯 **2025 Goals:** Contribute to 5+ impactful open-source projects and host a workshop on AI/ML.
-- 😄 **Fun Fact:** I built an AI-powered crop predictor, and my mom jokingly asked if I was working for ISRO! 🌾🚀
+## 🧠 About Me
+- 🎓 Final-year Computer Science student at **Presidency University, Bengaluru**  
+- 💻 Passionate about **AI/ML, Cybersecurity, and Full-Stack Development**  
+- 🚀 Currently working on **KYC Automation** and **Threat Detection Systems**  
+- 🌱 Learning **Next.js, Tailwind CSS, and Advanced ML techniques**  
+- 🎯 **2025 Goals:** Contribute to 5+ open-source projects and host an AI/ML workshop  
+- ⚡ Fun Fact: My AI crop predictor made my mom ask if I was working for ISRO! 🚀🌾  
 
 ---
 
-### ⚙️ Tech Stack
-
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,postgresql,flask,pytorch,tensorflow,opencv,docker,git,aws&perline=10" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ByteAcumen&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteAcumen&theme=radical" height="165"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByteAcumen&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteAcumen&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteAcumen&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByteAcumen&theme=react-dark" alt="Contribution Graph"/>
 </p>
 
 ---
 
-### 🐍 Contributions Snake
+## 🚀 Featured Projects
 
+### 🔹 [AI-Powered KYC Verification System](https://github.com/ByteAcumen/kyc-verification-system)
+- Reduced verification time by **70%** & improved accuracy to **98%**
+- Tech: PyTorch, OpenCV, Tesseract, Flask, React.js, AWS
+
+### 🔹 [ATLAS – AI Threat Analysis System](https://github.com/ByteAcumen/atlas-threat-detection)
+- Cut alert fatigue by **50%** using a graph-based detection model
+- Tech: Python, Scikit-learn, NetworkX, Pandas, Flask
+
+---
+
+## 🏆 Achievements
+- 🎖 Participant – **Smart India Hackathon (SIH) 2025** (*Epilepsy Attack Prediction Wearable*)  
+- 🌌 **Galactic Problem Solver** – NASA International Space Apps Challenge 2024  
+- 🥉 3rd Place – Maze Runner Competition, InnovateX 2.0, Presidency University  
+- 🎤 Presented AI project at **World’s Largest Innovation Expo** to 2000+ attendees  
+
+---
+
+## 📬 Connect with Me
 <p align="center">
-  <img src="https://github.com/ByteAcumen/ByteAcumen/blob/output/github-snake-dark.svg" alt="GitHub Contributions Snake" />
+  <a href="https://linkedin.com/in/h-h-hemanth-kumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:hemanth.kumar04hh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/ByteAcumen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 ---
 
-### 🚀 Featured Project
-
-#### AI Farmer Assistant
-
-- **Technologies Used:** Python, Scikit-learn, Matplotlib
-- **Problem Solved:** This project helps farmers predict crop yields by analyzing historical weather patterns and soil data, promoting better resource management and planning.
-- **Notable Achievements:** Awarded "Best AI Project" at our college's annual tech fest.
-- **Repository:** [AI Farmer Assistant](https://github.com/ByteAcumen/AI-Farmer-Assistant)
-
----
-
-### 📬 Connect with Me
-
+## 🐍 GitHub Contributions Snake
 <p align="center">
-  <a href="https://linkedin.com/in/h-h-hemanth-kumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:hemanth.kumar04hh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://github.com/ByteAcumen/ByteAcumen/blob/output/github-snake-dark.svg" alt="GitHub Snake"/>
 </p>
 
 ---
 
-### 👀 Visitor Counter
-
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ByteAcumen/count.svg" alt="Visitor Count" />
+  💡 *"Code is like humor. When you have to explain it, it’s bad."* 💡
 </p>
