@@ -1,171 +1,166 @@
-<div align="center">
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+there!+👋+I'm+Hemanth+Kumar;AI+%2B+Full-Stack+Developer;Building+Scalable+and+Intelligent+Systems;Open+to+Opportunities+🚀">
+</p>
 
-# 👋 Hi, I'm H H Hemanth Kumar
-
-### AI/ML Developer | Full-Stack Engineer | Computer Science Student
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hemant-kr.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-h-hemanth-kumar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ByteAcumen)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanth.kumar04hh@gmail.com)
-
-</div>
+<!-- Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
+🎓 Final-year **Computer Science Engineer** @ Presidency University, Bengaluru  
+💡 Passionate about **AI/ML, Cybersecurity & Scalable Full-Stack Systems**  
 
-I'm a final-year **Computer Science student** at **Presidency University, Bengaluru** (CGPA: 8.15/10), specializing in **AI/ML** and **scalable backend systems**. I build data-driven solutions that solve real-world problems, from automating KYC verification to detecting cybersecurity threats.
+🚀 Building real-world solutions:
+- AI-Powered **KYC Automation**
+- **Threat Detection Systems** using Graph Intelligence  
 
-- 🔭 Currently working as **Software Developer Intern** at HypotheSys Risk Solutions
-- 🧠 Focused on **Machine Learning, Cloud Architecture, and Full-Stack Development**
-- 🏆 **Winner** at Inventra 2026 Capstone Project Expo | **Finalist** at Smart India Hackathon 2025
-- 🌱 Exploring **Advanced ML Optimization, Next.js, and Cloud-Native Applications**
-- 💡 2025 Goal: Contribute to 5+ open-source projects and conduct AI/ML workshops
+🌱 Currently exploring:
+- ⚡ **Next.js + Tailwind (Production Level)**
+- 🧠 **Advanced ML & System Design**
+- ☁️ **Cloud & DevOps (AWS + Docker)**  
 
----
+🎯 **2026 Goal:**  
+- Contribute to **Open Source (5+ projects)**  
+- Land a role in **AI / Backend / Full-Stack Engineering**  
 
-## 💼 Professional Experience
-
-### 🔹 Software Developer Intern | HypotheSys Risk Solutions
-**Feb 2025 – Present**
-- Developing scalable backend services with **NestJS** and modular architecture
-- Designing RESTful APIs for data processing and system integration
-- Building real-time dashboards with **React.js** for monitoring system insights
-- Managing cloud infrastructure on **Microsoft Azure**
-- Implementing automated testing with **Playwright** for system reliability
-
-### 🔹 AI/ML Developer Intern | Innovitegra Solutions
-**Oct 2024 – Dec 2024**
-- Built ML-based **KYC verification pipeline** using OCR and classification models
-- Optimized models for identity verification and document classification
-- Integrated ML pipelines into production for **real-time processing**
-- Automated manual workflows, improving efficiency by **70%**
+⚡ Fun Fact: My AI crop predictor made my mom think I work for ISRO 🚀🌾  
 
 ---
 
-## 🛠️ Technical Skills
-
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### AI/ML & Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+## 🌐 Portfolio
+<p align="center">
+  <a href="https://hemant-kr.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🎯 Featured Projects
+## 🛠 Tech Stack
 
-### 🏛️ [Temple Crowd Management System](https://github.com/ByteAcumen/temple-crowd-management)
-**Winner at Inventra 2026 Capstone Project Expo**
-- Built full-stack system for crowd monitoring and booking management
-- Developed **ML-based crowd detection** model for real-time density estimation
-- Implemented **RAG-based chatbot** for contextual assistance
-- Tech Stack: **Python, React.js, Node.js, Redis, Docker, WebSockets, JWT**
-- Features: Real-time updates, microservices architecture, CI/CD pipelines
+<p align="center">
 
-### 🛡️ [ATLAS – AI Threat Analysis System](https://github.com/ByteAcumen/atlas-threat-detection)
-- Cut alert fatigue by **50%** using graph-based detection model
-- Designed anomaly detection system for abnormal traffic patterns
-- Built real-time monitoring and analytics dashboard
-- Tech Stack: **Python, Scikit-learn, NetworkX, Pandas, Flask**
-- Focus: Data-driven decision making and system reliability
+**Languages**  
+`Python` `Java` `JavaScript` `TypeScript`  
 
-### 🔐 [AI-Powered KYC Verification System](https://github.com/ByteAcumen/kyc-verification-system)
-- Reduced verification time by **70%** with **98% accuracy**
-- Built using **PyTorch, OpenCV, Tesseract OCR**
-- Integrated with **React.js** frontend and **AWS** backend
-- Features: Document classification, identity verification, real-time processing
+**Frontend**  
+`React.js` `Next.js` `HTML` `CSS` `Tailwind CSS`  
 
-### 🌐 [DDoS Protection System for Cloud](https://github.com/ByteAcumen/ddos-protection)
-- Scalable architecture for handling high-volume distributed traffic
-- Real-time monitoring and alerting mechanisms
-- Built with focus on system reliability and data-driven insights
-- Tech Stack: **Python, Redis, React.js, Docker**
+**Backend**  
+`Node.js` `Express.js` `Flask`  
+
+**Databases**  
+`MongoDB` `PostgreSQL`  
+
+**AI/ML**  
+`PyTorch` `TensorFlow` `OpenCV` `Scikit-learn`  
+
+**DevOps & Tools**  
+`Docker` `AWS` `Git` `Linux`  
+
+</p>
 
 ---
 
-## 🏆 Achievements & Recognition
+## 📊 GitHub Analytics
 
-- 🥇 **Winner & Top 5 Project** – Inventra 2026 Capstone Project Expo
-- 🎖️ **Finalist (Top 30)** – Smart India Hackathon (SIH) 2025
-- 🌌 **Galactic Problem Solver** – NASA International Space Apps Challenge 2024
-- 🥉 **3rd Place** – Maze Runner Competition, InnovateX 2.0, Presidency University
-- 🎤 Presented AI project at **World's Largest Innovation Expo** to 2000+ attendees
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ByteAcumen&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=ByteAcumen&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteAcumen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ByteAcumen&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteAcumen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteAcumen&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
-## 📝 Latest Activity
+## 🚀 Featured Projects
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### 🔹 AI-Powered KYC Verification System
+- ⏱ Reduced verification time by **70%**  
+- 🎯 Achieved **98% accuracy**  
+- 🧠 Integrated **OCR + Face Matching**  
 
----
-
-## 📫 Let's Connect
-
-I'm always interested in collaborating on AI/ML projects, full-stack development, or open-source contributions. Feel free to reach out!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/h-h-hemanth-kumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hemant-kr.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanth.kumar04hh@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hemant_hk07/)
-
-</div>
+**Tech:** PyTorch, OpenCV, Tesseract, Flask, React, AWS  
+🔗 https://github.com/ByteAcumen/kyc-verification-system  
 
 ---
 
-<div align="center">
+### 🔹 ATLAS – AI Threat Analysis System
+- 🚨 Reduced alert fatigue by **50%**  
+- 🔗 Graph-based anomaly detection  
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."*
+**Tech:** Python, NetworkX, Pandas, Scikit-learn, Flask  
+🔗 https://github.com/ByteAcumen/atlas-threat-detection  
 
-![Visitor Count](https://profile-counter.glitch.me/ByteAcumen/count.svg)
+---
 
-</div>
+## 🏆 Achievements
+- 🧠 **Smart India Hackathon 2025 Finalist** (Epilepsy Prediction Wearable)  
+- 🌌 NASA Space Apps Challenge 2024 – **Galactic Problem Solver**  
+- 🥉 3rd Place – InnovateX 2.0  
+- 🎤 Presented AI solution to **2000+ attendees**  
+
+---
+
+## 📈 What I’m Currently Working On
+- 🔥 Production-ready **AI Systems**  
+- ⚡ **Backend Scalability (Node.js + System Design)**  
+- 🧠 Real-time **Threat Detection & Analytics**  
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/h-h-hemanth-kumar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hemanth.kumar04hh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ByteAcumen">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/hemant_hk07/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/ByteAcumen/ByteAcumen/blob/output/github-snake-dark.svg"/>
+</p>
+
+---
+
+## 💡 Quote
+<p align="center">
+  <i>"First solve the problem, then write the code."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ByteAcumen/count.svg"/>
+</p>
+
+---
+
+## ⚡ Daily Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
+</p>
+
+---
+
+## 📊 Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ByteAcumen&theme=tokyonight"/>
+</p>
