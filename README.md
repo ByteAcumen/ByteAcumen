@@ -16,7 +16,7 @@
 
 🚀 Building real-world solutions:
 - AI-Powered **KYC Automation**
-- **Threat Detection Systems** using Graph Intelligence  
+- **Threat Detection Systems** using Graph Intelligence
 
 🌱 Currently exploring:
 - ⚡ **Next.js + Tailwind (Production Level)**
@@ -25,7 +25,7 @@
 
 🎯 **2026 Goal:**  
 - Contribute to **Open Source (5+ projects)**  
-- Land a role in **AI / Backend / Full-Stack Engineering**  
+- Land a role in **AI / Backend / Devops / Full-Stack Engineering **  
 
 ⚡ Fun Fact: My AI crop predictor made my mom think I work for ISRO 🚀🌾  
 
